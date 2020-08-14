@@ -3,7 +3,7 @@
 
 Preview - https://thighsarebest.me/
 
-![Made with love from Chino](https://madewithlove.now.sh/pl?heart=true)
+!Made with love ❤
 
 ## Thanks to
 * Google
