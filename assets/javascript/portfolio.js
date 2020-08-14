@@ -37,7 +37,7 @@
             link = $('#marquee').children('a').last();
                 
             if (i != links.length - 1) 
-                $('#marquee').append(' <img class="emoticon" src="http://lolisarethebest.tk/RoseryDatabase/Hentai/Lewds/If_roses_were_not_special_weeds_would_not_envy_them_18672a690986545496335589608.png"> ');
+                $('#marquee').append(' <img class="emoticon" src="assets/images/rose_mgh.png"> ');
         }
 
         if (window.mobileAndTabletCheck()) {
@@ -48,15 +48,15 @@
 
         app.titleChanger();
         app.iconChanger([
-            "http://lolisarethebest.tk/RoseryDatabase/Hentai/Lewds/If_roses_were_not_special_weeds_would_not_envy_them_18672a690986545496335589608.png",
-            "http://lolisarethebest.tk/RoseryDatabase/Hentai/Lewds/If_roses_were_not_special_weeds_would_not_envy_them_64866416728395603v225783738.png",
-            "http://lolisarethebest.tk/RoseryDatabase/Hentai/Lewds/If_roses_were_not_special_weeds_would_not_envy_them_18672a690986545496335589608.png",
-            "http://lolisarethebest.tk/RoseryDatabase/Hentai/Lewds/If_roses_were_not_special_weeds_would_not_envy_them_64866416728395603v225783738.png",
-            "http://lolisarethebest.tk/RoseryDatabase/Hentai/Lewds/If_roses_were_not_special_weeds_would_not_envy_them_18672a690986545496335589608.png",
-            "http://lolisarethebest.tk/RoseryDatabase/Hentai/Lewds/If_roses_were_not_special_weeds_would_not_envy_them_64866416728395603v225783738.png",
-            "http://lolisarethebest.tk/RoseryDatabase/Hentai/Lewds/If_roses_were_not_special_weeds_would_not_envy_them_18672a690986545496335589608.png",
-            "http://lolisarethebest.tk/RoseryDatabase/Hentai/Lewds/If_roses_were_not_special_weeds_would_not_envy_them_64866416728395603v225783738.png",
-            "http://lolisarethebest.tk/RoseryDatabase/Hentai/Lewds/If_roses_were_not_special_weeds_would_not_envy_them_18672a690986545496335589608.png",
+            "assets/images/rose_mgh.png",
+            "assets/images/rose.png",
+            "assets/images/rose_mgh.png",
+            "assets/images/rose.png",
+            "assets/images/rose_mgh.png",
+            "assets/images/rose.png",
+            "assets/images/rose_mgh.png",
+            "assets/images/rose.png",
+            "assets/images/rose_mgh.png",
         ]);
     });
 
@@ -102,10 +102,10 @@
 
     $('html').on('contextmenu', function (event) {
         var img = document.createElement("img");
-        img.src = "http://lolisarethebest.tk/RoseryDatabase/Hentai/Lewds/If_roses_were_not_special_weeds_would_not_envy_them_18672a690986545496335589608.png"; 
+        img.src = "assets/images/rose_mgh.png"; 
         img.width = 64;
         img.height = 64;
-        img.alt = "loliarethebest.tk";
+        img.alt = "thighsarebest.me";
         img.style = "position: absolute; left: " + event.pageX + "px; top: " + event.pageY + "px; z-index: 10";
         img.className = "troll" + ( (app.skippedIntro) ? "" : "" );
 
