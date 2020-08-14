@@ -3,7 +3,7 @@
 
 Preview - https://thighsarebest.me/
 
-!Made with love ❤
+Made with love ❤
 
 ## Thanks to
 * Google
